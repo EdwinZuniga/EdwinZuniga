@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Edwin Zuniga</h1>
-<h3 align="center">Soy un desarrollador web de El Salvador sv. Un apasionado estudiante de programación y miembro activo de un centro de desarrollo de software. Actualmente, me encuentro inmerso en la creación de aplicaciones web utilizando Asp.Net y aplicando el patrón de diseño MVC.</h3>
+<h3 align="center">Soy un desarrollador web de El Salvador sv. Actualmente, me encuentro inmerso en la creación de aplicaciones web utilizando Asp.Net y aplicando el patrón de diseño MVC.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
